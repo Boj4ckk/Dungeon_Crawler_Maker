@@ -6,19 +6,19 @@ Dungeon Crawler Maker is a tool developed in C for designing dungeons for dungeo
 
 ### Installation
 
-Bash :
+```bash :
 
 
   git clone https://github.com/idontwannafailmyexam/Dungeon_Crawler_Maker.git
   cd Dungeon_Crawler.
+ ```
 
 ## Usage
+To run the Dungeon Crawler Maker, follow these steps:
 
-Bash :
-
-
-    make all
-    ./test.exe
+1. Compile the program:
+   ```bash
+   make all
 
 
 
