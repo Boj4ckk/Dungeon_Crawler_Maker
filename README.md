@@ -19,6 +19,7 @@ To run the Dungeon Crawler Maker, follow these steps:
 1. Compile the program:
    ```bash
    make all
+   ./test.exe
    ```
 
 
