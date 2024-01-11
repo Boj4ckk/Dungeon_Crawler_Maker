@@ -11,13 +11,19 @@ To install this project, simply clone the repository:
 
 Bash:
   git clone https://github.com/idontwannafailmyexam/Dungeon_Crawler_Maker.git
+
+  
   cd Dungeon_Crawler.
 
 
 ## Usage
 
--Bash :
+Bash :
+
+
     make all
+
+    
     ./test.exe
 
 
