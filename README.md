@@ -7,13 +7,18 @@ Dungeon Crawler Maker is a tool developed in C for designing dungeons for dungeo
 ### Installation
 To install this project, simply clone the repository:
 
-git clone https://github.com/yourusername/dungeon-crawler-maker.git
-cd dungeon-crawler-maker.
+
+
+Bash:
+  git clone https://github.com/idontwannafailmyexam/Dungeon_Crawler_Maker.git
+  cd Dungeon_Crawler.
 
 
 ## Usage
-make all
-./test.exe
+
+-Bash :
+    make all
+    ./test.exe
 
 
 
